@@ -7,5 +7,6 @@ public class gitgit {
         System.out.println("hello lzz");
         System.out.println("hellohello");
         System.out.println("hellohello777");
+        System.out.println("hellohello666");
     }
 }
