@@ -1,5 +1,7 @@
 package com.lzz.git;
 
+import org.apache.ibatis.logging.stdout.StdOutImpl;
+
 public class gitgit {
     public static void main(String[] args) {
         System.out.println("hello");
@@ -12,9 +14,8 @@ public class gitgit {
         System.out.println("push111");
          System.out.println("pull");
          System.out.println("update");
-    
+        System.out.println("up");
 
 
-        
     }
 }
